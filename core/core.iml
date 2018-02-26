@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/kryonet/kryonet/2.21/3d95398f986c185c7799b828a24dff11a13bc5da/kryonet-2.21.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/815893df5f31da2ece4040fe0a12fd44b577afaf/commons-io-2.6.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.6/2566800dc841d9d2c5a0d34d807e45d4107dbbdf/commons-io-2.6-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-lwjgl3/1.9.8/ac74d4b336b8354c42ef352c368c03da47ffa015/gdx-backend-lwjgl3-1.9.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-lwjgl3/1.9.8/30667890c34763b3d8193acd1734e66f7b9b0404/gdx-backend-lwjgl3-1.9.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.esotericsoftware.kryo/kryo/2.24.0/c6b206e80cfd97e66a1364003724491c757b92f/kryo-2.24.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.esotericsoftware.kryo/kryo/2.24.0/72af5078b1592b627f2b4187f95decf72829b0e9/kryo-2.24.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/a35a0076fbce873f9c2d5a1a1c8066244231bb3c/gdx-1.9.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.8/bac17f395be5010619b31280fe84e9f53118d0b9/gdx-1.9.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers-lwjgl3/1.9.8/a31c0f573d0a28178cadc041d95be4b94af9a4c7/gdx-controllers-lwjgl3-1.9.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers-lwjgl3/1.9.8/d1d39d1b0e3d0d2f3dc0eafd9acaf586b799af5d/gdx-controllers-lwjgl3-1.9.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.8/6f0497b7958216464101adfb7bdc3a0f7b88d6d3/gdx-box2d-1.9.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.8/1fd1df309f965e52196900b270afc2bcd0acd0a2/gdx-box2d-1.9.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.1/a52367e373fe52f0d20f162cbf8711c38f002a25/gdx-ai-1.8.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.1/a0e7e1f3732190d68e376360d894175af72fabf2/gdx-ai-1.8.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.github.MinnDevelopment/Java-DiscordRPC/-SNAPSHOT/ea8fdcb527b58f85cbbe80868e259ad5d099279/Java-DiscordRPC--SNAPSHOT.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.github.MinnDevelopment/Java-DiscordRPC/-SNAPSHOT/5c6a025c3282243de827cd1948ae6d85d3bb1d1e/Java-DiscordRPC--SNAPSHOT-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/b2da9f8444128651758719856de579eacff7f387/gson-2.8.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.esotericsoftware.reflectasm/reflectasm/1.07/76f11c94a53ee975a0d9154b325c408b210155bd/reflectasm-1.07-shaded.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.esotericsoftware.reflectasm/reflectasm/1.07/ca505e39e6ea1762cdc42f1311448333a9b1c6c2/reflectasm-1.07-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.esotericsoftware.minlog/minlog/1.2/59bfcd171d82f9981a5e242b9e840191f650e209/minlog-1.2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.esotericsoftware.minlog/minlog/1.2/c0bf75c30b19393673253e25708aa797a545fa10/minlog-1.2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/87c0ea803b69252868d09308b4618f766f135a96/objenesis-2.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.1/611a57d836e2c320d59f9851d4ad587f3c8472e/objenesis-2.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.3/13bf03e4969284e1cc05085dd13cab8dd0415c13/lwjgl-3.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.3/a7f937b0f0163ec125f88ebe912d7293d94f918f/lwjgl-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.3/da731ce107407662b16f9823a9667ae13d30c5c3/lwjgl-3.1.3-natives-windows.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.3/a7f937b0f0163ec125f88ebe912d7293d94f918f/lwjgl-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.3/1c0a6a77387581301dd1983dcf1e2d2475c13443/lwjgl-3.1.3-natives-linux.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.3/a7f937b0f0163ec125f88ebe912d7293d94f918f/lwjgl-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.3/2e066143f1793c657e705f6599cc0b134a4edfc1/lwjgl-3.1.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.1.3/a7f937b0f0163ec125f88ebe912d7293d94f918f/lwjgl-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.3/cf45ad83170e9391ec2bbd68d7ca0e1bf8cdb0e3/lwjgl-glfw-3.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.3/27630c904f49900b8a3f9490e8b411dbb7c72ad8/lwjgl-glfw-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.3/fc6d066d65d101bbb82e157522f3c41a175245d5/lwjgl-glfw-3.1.3-natives-windows.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.3/27630c904f49900b8a3f9490e8b411dbb7c72ad8/lwjgl-glfw-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.3/9b1a82cc253af775eb8ca5916d02dd4d4448ec3d/lwjgl-glfw-3.1.3-natives-linux.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.3/27630c904f49900b8a3f9490e8b411dbb7c72ad8/lwjgl-glfw-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.3/150f4a526e4e968e156091dba7ee3abbe2455537/lwjgl-glfw-3.1.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-glfw/3.1.3/27630c904f49900b8a3f9490e8b411dbb7c72ad8/lwjgl-glfw-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.1.3/673974cb7b575fe1c37b2f3b8e5096fd791aec3d/lwjgl-jemalloc-3.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.1.3/2d8e66a4ae0905558e3e43ec29edd4f1017f06b6/lwjgl-jemalloc-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.1.3/d000f5f1570624d2400053ec533ae6324897b48f/lwjgl-jemalloc-3.1.3-natives-windows.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.1.3/2d8e66a4ae0905558e3e43ec29edd4f1017f06b6/lwjgl-jemalloc-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.1.3/8f00b5fb94b84d68d44f2be2fe62c73f672e9757/lwjgl-jemalloc-3.1.3-natives-linux.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.1.3/2d8e66a4ae0905558e3e43ec29edd4f1017f06b6/lwjgl-jemalloc-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.1.3/3235da206ca947644c817dfa60feb67944939aed/lwjgl-jemalloc-3.1.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.1.3/2d8e66a4ae0905558e3e43ec29edd4f1017f06b6/lwjgl-jemalloc-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.3/6850ed80dcaa393c3a21b7d3e3f6063289f5c8be/lwjgl-opengl-3.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.3/87acffa06651ab8c7d81b09310a9a88aa0b6c5f8/lwjgl-opengl-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.3/4609a33435a0eaa01840b34ec93ee85a58913025/lwjgl-opengl-3.1.3-natives-windows.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.3/87acffa06651ab8c7d81b09310a9a88aa0b6c5f8/lwjgl-opengl-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.3/ca930f0b37248694add00102179efad0530759bf/lwjgl-opengl-3.1.3-natives-linux.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.3/87acffa06651ab8c7d81b09310a9a88aa0b6c5f8/lwjgl-opengl-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.3/abbb06240087df4a75cd571c019f591297848a/lwjgl-opengl-3.1.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-opengl/3.1.3/87acffa06651ab8c7d81b09310a9a88aa0b6c5f8/lwjgl-opengl-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.3/4eb9561918c4baa8ca1385723e68c336840ab01e/lwjgl-openal-3.1.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.3/caada2f2bf098f7ba999d1a22b76cd8033e686a9/lwjgl-openal-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.3/55450662bd7c20e7c18555dcca259bc712448600/lwjgl-openal-3.1.3-natives-windows.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.3/caada2f2bf098f7ba999d1a22b76cd8033e686a9/lwjgl-openal-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.3/d0dff62cb773499ab21df802de1700e04b2720b2/lwjgl-openal-3.1.3-natives-linux.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.3/caada2f2bf098f7ba999d1a22b76cd8033e686a9/lwjgl-openal-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.3/c725c21c0d8f1aaea9e5f64e77baadae4e0e415d/lwjgl-openal-3.1.3-natives-macos.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-openal/3.1.3/caada2f2bf098f7ba999d1a22b76cd8033e686a9/lwjgl-openal-3.1.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.jlayer/jlayer/1.0.1-gdx/7cca83cec5c1b2f011362f4d85aabd71a73b049d/jlayer-1.0.1-gdx.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.jlayer/jlayer/1.0.1-gdx/f1c4ffebc5e4f68be914404faab580c20de8ea1f/jlayer-1.0.1-gdx-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.jcraft/jorbis/0.0.17/8872d22b293e8f5d7d56ff92be966e6dc28ebdc6/jorbis-0.0.17.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/org.jcraft/jorbis/0.0.17/5446be5d62e4c6b347c8e6cd28dc00a936417ba2/jorbis-0.0.17-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers/1.9.8/8cdc9ab6826a74594c3b0084d8a7669f8124592b/gdx-controllers-1.9.8.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-controllers/1.9.8/5be4e61f2a04718e82f5fecbaffeff0035021902/gdx-controllers-1.9.8-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.4.0/cb208278274bf12ebdb56c61bd7407e6f774d65a/jna-4.4.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.4.0/9d45d3dc35711eef7267d8b4fc2c0dc482ef9fd2/jna-4.4.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/tecksup/.gradle/caches/modules-2/files-2.1/com.github.MinnDevelopment/discord-rpc-release/v2.1.1/370b2ea01b78496041b40dea974b69be87a5782f/discord-rpc-release-v2.1.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES/>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>
